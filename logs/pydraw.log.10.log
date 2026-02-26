@@ -1,0 +1,4 @@
+2025-06-05 15:07:03,378 INFO: Expected output file: /tmp/diagrams_webui/Stateful_Architecture.png [in /app/app.py:128]
+2025-06-05 15:07:03,715 INFO: Found PNG files: ['/tmp/diagrams_webui/Stateful Architecture.png', '/tmp/diagrams_webui/Simple_Web_Service.png'] [in /app/app.py:141]
+2025-06-05 15:12:19,811 INFO: Cleanup: Removed 2 old diagram files [in /app/config.py:84]
+2025-06-05 15:13:19,817 INFO: Cleanup: Removed 1 old diagram files [in /app/config.py:84]
